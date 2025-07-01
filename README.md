@@ -65,6 +65,8 @@ To design and implement a modular and testable MIPS datapath architecture in Ver
 
 - Ziad Mohamed  
 - Mohamed Hesham
+- Nada Emad
+- Youssef Abdelrahem
 
 ---
 
