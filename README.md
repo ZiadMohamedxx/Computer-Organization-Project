@@ -1,6 +1,6 @@
 # MIPS Datapath Implementation Using Verilog
 
-This project implements a simplified version of the **MIPS datapath** using Verilog HDL, excluding the control unit. It was developed as part of the Computer Organization (CS223) course by Ziad Mohamed and Mohamed Hesham.
+This project implements a simplified version of the **MIPS datapath** using Verilog HDL, excluding the control unit. It was developed as part of the Computer Organization (CS223) course by Ziad Mohamed, Mohamed Hesham, Nada Emad and Youssef Abdelrahem.
 
 The design follows a behavioral modeling approach and focuses on manually simulating different MIPS instruction types (R-type, I-type, and branching) through a custom testbench.
 
